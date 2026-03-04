@@ -1,22 +1,22 @@
-# 💫 About Me:
+## 💫 About Me
 
 🔭 **Currently Building**
-• Python-based data science & computational projects  
-• Simulation-driven exploration of complex systems  
-• Strong CS fundamentals (DSA, numerical computing)
+- Python-based data science & computational projects  
+- Physics-based simulations (gravity systems, black hole models)  
+- Simulation-driven exploration of complex systems  
 
 🌱 **Currently Learning**
-• Scientific computing (NumPy, Pandas, ML stack)  
-• Algorithmic problem solving  
-• Julia & R for statistical / numerical workflows
+- Scientific computing (NumPy, Pandas, ML stack)  
+- Computational physics & numerical modeling  
+- Julia & R for statistical / numerical workflows  
 
 💬 **Ask Me About**
-• Python data workflows  
-• SQL & Excel analytics  
-• Turning theoretical ideas into working code
+- Python data workflows  
+- SQL & Excel analytics  
+- Turning theoretical models into working simulations  
 
 ⚡ **Fun Fact**
-• I enjoy translating complex systems into simulations and models.
+- I enjoy translating physical systems and abstract models into code.
 
 
 ## 🌐 Socials:
