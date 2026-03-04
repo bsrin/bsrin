@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>• Data science and computational projects using Python<br>• Building simulations and visual tools to explore complex systems<br>• Developing a strong foundation in algorithms, data structures, and numerical computing<br><br>🤝 I’m looking for help with<br>• High-performance computing and optimization<br>• Advanced machine learning workflows<br>• Large-scale data analysis and modeling<br><br>🌱 I’m currently learning<br>• Scientific computing with Python (NumPy, Pandas, ML stack)<br>• Data structures & algorithmic problem solving<br>• Expanding into Julia and R for numerical and statistical computing<br><br>💬 Ask me about<br>• Python for data analysis and problem solving<br>• Excel and SQL for real-world data workflows<br>• Front-end basics with HTML & CSS<br>• Turning abstract ideas into technical projects<br><br>⚡ Fun fact<br>• I like breaking down complex ideas — from algorithms to physics — and rebuilding them as code or simulations.<br>
+
+🔭 **Currently Building**
+• Python-based data science & computational projects  
+• Simulation-driven exploration of complex systems  
+• Strong CS fundamentals (DSA, numerical computing)
+
+🌱 **Currently Learning**
+• Scientific computing (NumPy, Pandas, ML stack)  
+• Algorithmic problem solving  
+• Julia & R for statistical / numerical workflows
+
+💬 **Ask Me About**
+• Python data workflows  
+• SQL & Excel analytics  
+• Turning theoretical ideas into working code
+
+⚡ **Fun Fact**
+• I enjoy translating complex systems into simulations and models.
 
 
 ## 🌐 Socials:
